@@ -1,0 +1,24 @@
+.Main-Div{
+    width: 90%;
+    height: fit-content;
+    
+}
+.cour{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px ;
+}
+
+.Legend{
+    margin-top: 27%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50% );
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
